@@ -1,0 +1,1 @@
+Il file test.json viene creato relativamente alla path dove l'utente ha lanciato il programma.
